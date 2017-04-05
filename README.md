@@ -5,7 +5,7 @@ What is Thy Tampobrain XVII?
 
 **Thy TampoBrain XVII** is a text adventure, created using the same Flash-based framework used for [Thy Dungeonman 3](http://www.homestarrunner.com/dman3.html) (from the creators of Homestar Runner). It was released in 2006 and can best be described as "interactive fan fiction", as it focuses on [incredibly minor characters](http://www.hrwiki.org/wiki/Stinkoman_20X6_Enemies_and_Items) from the Homestar Runner universe.
 
-The writing is a little bit cringeworthy, and the very few graphics are less than stellar. It's my estimation that no more than 20 people ever played the game. Nonetheless, those people had a lot of fun playing it and I had a lot of fun coding it, so it will forever have a soft spot in my heart.
+The writing is a little bit cringeworthy, and the few graphics the game has are less than stellar. It's my estimation that no more than 20 people ever played the game. Nonetheless, those people had a lot of fun playing it and I had a lot of fun coding it, so it will forever have a soft spot in my heart.
 
 For more info on Thy TampoBrain XVII, check out the [wiki page](http://fanstuff.hrwiki.org/wiki/Thy_TampoBrain_XVII). Huge thanks to **Joshua**, without whom there would not be a game at all.
 
